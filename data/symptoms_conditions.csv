@@ -1,0 +1,11 @@
+symptoms,condition,urgency
+"fever,cough,sore throat",Common Cold,Low
+"fever,headache,stiff neck",Meningitis,High
+"chest pain,shortness of breath",Heart Attack,High
+"nausea,vomiting,diarrhea",Food Poisoning,Medium
+"fatigue,weight loss,night sweats",Tuberculosis,High
+"sneezing,itchy eyes,runny nose",Allergic Rhinitis,Low
+"abdominal pain,bloating,constipation",Irritable Bowel Syndrome,Medium
+"dizziness,blurred vision,slurred speech",Stroke,High
+"fever,headache,loss of appetite",Malaria,High
+"joint pain,rash,fever",Dengue,High
