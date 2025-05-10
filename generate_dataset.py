@@ -20,7 +20,7 @@ data = [
         "symptoms": "nausea,vomiting,diarrhea",
         "condition": "Food Poisoning",
         "urgency": "Medium"
-    }
+    },
     {
         "symptoms": "fatigue,weight loss,night sweats",
         "condition": "Tuberculosis",
