@@ -21,6 +21,3 @@ def predict():
 
 if __name__ == "__main__":
     app.run(debug=True)
-@app.route("/", methods=["GET"])
-def index():
-    return "AI Symptom Checker API is running. Use POST /predict to make predictions."
