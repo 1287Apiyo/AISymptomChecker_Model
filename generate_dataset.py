@@ -22,6 +22,7 @@ data = [
         "urgency": "Medium"
     },
     {
+        
         "symptoms": "fatigue,weight loss,night sweats",
         "condition": "Tuberculosis",
         "urgency": "High"
