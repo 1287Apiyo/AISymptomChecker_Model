@@ -4,7 +4,7 @@ from sklearn.naive_bayes import MultinomialNB
 from sklearn.pipeline import Pipeline
 import joblib
 
-# Load the dataset
+
 df = pd.read_csv("data/symptoms_conditions.csv")
 
 # Split into input and output
