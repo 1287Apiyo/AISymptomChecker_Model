@@ -7,7 +7,7 @@ import joblib
 
 df = pd.read_csv("data/symptoms_conditions.csv")
 
-# Split into input and output
+
 X = df["symptoms"]
 y = df["condition"]
 
