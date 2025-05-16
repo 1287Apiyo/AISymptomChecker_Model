@@ -1,6 +1,6 @@
 import joblib
 
-#  Load the trained modell
+
 model = joblib.load("model/symptom_checker_model.pkl")
 
 print("AI Symptom Checker")
