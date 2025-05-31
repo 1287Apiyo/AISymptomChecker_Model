@@ -17,7 +17,7 @@ model = Pipeline([
     ('classifier', MultinomialNB())
 ])
 
-# Train thhe mode
+# Train thhe mod
 model.fit(X, y)
 
 
