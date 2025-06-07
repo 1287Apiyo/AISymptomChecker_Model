@@ -11,7 +11,7 @@ df = pd.read_csv("data/symptoms_conditions.csv")
 X = df["symptoms"]
 y = df["condition"]
 
-# Create a pipeline for vectorization and 
+# Create a pipeline for vectorization 
 model = Pipeline([
     ('vectorizer', TfidfVectorizer()),
     ('classifier', MultinomialNB())
